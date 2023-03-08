@@ -1,7 +1,7 @@
 # Vagrant (how to setup yuor local computer)
 
 ## Objectives
-At the end of this project, I can explain withou google
+At the end of this project, I can explain without google
 
 * virtual machine
 * what is vagrant
